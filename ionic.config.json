@@ -1,0 +1,7 @@
+{
+  "name": "nafinsugu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
